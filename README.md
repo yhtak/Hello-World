@@ -1,2 +1,3 @@
 # Hello-World
-Just learning
+Just learning about git.
+
